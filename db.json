@@ -1,1 +1,12 @@
-
+{
+  "tarea": [
+    {
+      "id": "",
+      "nombreTarea": "",
+      "fechaInicio": "",
+      "fechaEntrega": "",
+      "descripcion": "",
+      "estado": "",
+    }
+  ]
+}
