@@ -1,11 +1,11 @@
 {
   "tarea": [
     {
-      "nombreTarea": " Codigo 1",
-      "fechaInicio": "",
-      "fechaEntrega": "",
-      "descripcion": "",
-      "estado": ""
+      "nombreTarea": "Codigo",
+      "fechaInicio": "10/10/1800",
+      "fechaEntrega": "11/11/1800",
+      "descripcion": "ejemplos",
+      "estado": "EN PROCESO"
     }
   ]
 }
