@@ -6,6 +6,13 @@
       "fechaEntrega": "11/11/1800",
       "descripcion": "ejemplos",
       "estado": "EN PROCESO"
+    },
+    {
+      "nombreTarea": "Codigo2",
+      "fechaInicio": "13/13/1806",
+      "fechaEntrega": "16/16/1806",
+      "descripcion": "ejemplos2",
+      "estado": "COMPLETADO"
     }
   ]
 }
