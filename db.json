@@ -1,6 +1,7 @@
 {
   "tarea": [
-    {
+    { 
+      "id": 6,
       "nombreTarea": "Codigo",
       "fechaInicio": "10/10/1800",
       "fechaEntrega": "11/11/1800",
